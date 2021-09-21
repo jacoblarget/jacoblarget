@@ -6,7 +6,7 @@ My favorite project so far is this [R Shiny application](https://github.com/jaco
 
 Currently, here are some things I'm working on:
 - an extension of this [interactive sagittal section](http://smu-facweb.smu.ca/~s0949176/sammy/) that allows for stringing together several IPA characters by typing to animate the section and help teach phonetics.
-- a digital version of 3M's game [Acquire](https://en.wikipedia.org/wiki/Acquire), since I believe learning doesn't have to be separate from fun.
+- a digital version of 3M's game [Acquire](https://en.wikipedia.org/wiki/Acquire) to see how UI upgrades can improve gameplay by taking care of stock prices and counts so players can focus on the strategy.
 
 <!---
 jacoblarget/jacoblarget is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
