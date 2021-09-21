@@ -5,7 +5,7 @@ I'm interested in using human-computer interaction to improve how and what we le
 My favorite project so far is this [R Shiny application](https://github.com/jacoblarget/chemical-position-visualizer) that helps visualize a set of chemical position data.
 
 Currently, here are some things I'm working on:
-- an interactive sagittal section [inspired by this](http://smu-facweb.smu.ca/~s0949176/sammy/) with more features to help teach phonetics.
+- an extension of this [interactive sagittal section](http://smu-facweb.smu.ca/~s0949176/sammy/) that allows for stringing together several IPA characters by typing to animate the section and help teach phonetics.
 - a digital version of 3M's game [Acquire](https://en.wikipedia.org/wiki/Acquire), since I believe learning doesn't have to be separate from fun.
 
 <!---
