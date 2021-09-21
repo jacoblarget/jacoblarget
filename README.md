@@ -2,7 +2,7 @@
 
 I'm interested in using human-computer interaction to improve how and what we learn.
 
-My favorite project so far is this R Shiny application that helps visualize a set of chemical position data.
+My favorite project so far is [this R Shiny application](https://github.com/jacoblarget/chemical-position-visualizer) that helps visualize a set of chemical position data.
 
 Currently, here are some things I'm working on:
 - an interactive sagittal section [inspired by this](http://smu-facweb.smu.ca/~s0949176/sammy/) with more features to help teach phonetics.
