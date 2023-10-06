@@ -2,7 +2,7 @@
 
 I'm interested in using human-computer interaction to improve how and what we learn.
 
-My favorite project so far is [this MVP of an office hours application](https://github.com/jacoblarget/waitlisters) I created for my Software Engineering class, and started to [refactor with a more legitimate authentication solution after graduation.](https://github.com/jacoblarget/office-ours)
+My favorite project so far is this [MVP](https://github.com/jacoblarget/waitlisters) of an office hours application I created for my Software Engineering class, and started to [refactor](https://github.com/jacoblarget/office-ours) with a more legitimate authentication solution after graduation.
 
 I'm additionally proud of this [R Shiny application](https://github.com/jacoblarget/chemical-position-visualizer) that helps visualize a chemical interaction dataset.
 
