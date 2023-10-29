@@ -1,6 +1,6 @@
 ## Welcome!
 
-I'm interested in using human-computer interaction to improve natural feedback loops.
+I'm an automation specialist who also understands that there is nothing quite as inefficient as doing with great efficiency what should not be done at all :)
 
 My favorite project so far is this [MVP](https://github.com/jacoblarget/waitlisters) of a full-stack office hours waitlist application I collaborated on for my Software Engineering Class.
 
